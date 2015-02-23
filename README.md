@@ -1,26 +1,10 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+大家一起來玩"奪命鎖鏈 - 密室逃脫遊戲"
 
+## 簡單說明 : 
 
-Hi there! Welcome to Cloud9 IDE!
+## 分組：
 
-To get you started, we included a small hello world application.
+每組八個人，分AB兩組不同時間入場
 
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+    - A組 : 宗翰、柏維、慶臨、恩恩、鴻鴻、辰辰、伊伊、婷婷
+    - B組 : 棠哥、容蓉、柏諺(同學)、育萱、SAM(育萱同學)、嘉嘉、妹妹、鈞鈞(堂妹)
